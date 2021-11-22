@@ -1,0 +1,16 @@
+﻿Hypertension,Chronic heart failure,Cancer,Prior pe,PE,Chest Pain,Dyspnea,DOA
+HTN,heart failure,malignancy,MAKE_PHRASE_COMBINATIONS,DVT,CP,DIB,DOAC
+high BP,CHF,,Prior/previous_PE/pes/DVT/dvts/pulmonary embolism/deep vein thrombosis,deep vein thrombosis,C/P,SOB,Apixaban
+>BP,CCF,lung ca,,pulmonary embolism,angina,short of breath,dabigatran
+high blood pressure,LVF,chemo,,dvts ,chest pains,shortness of breath,edoxaban
+,,chemotherapy,,,,breathless,rivaroxaban
+,,carcinoma,,pes,,breathlessness,Apixiban
+,,ovarian ca,,,,,
+,,breast ca,,secondary_matcher,,,
+,,history of ca,,,,,
+,,colon ca,,,,,
+,,pancreas ca,,,,,
+,,liver ca,,,,,
+,,bowel ca,,,,,
+,,bladder ca,,,,,
+,,kidney ca,,,,,
