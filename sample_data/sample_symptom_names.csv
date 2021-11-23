@@ -1,16 +1,15 @@
-﻿Hypertension,Chronic heart failure,Cancer,Prior pe,PE,Chest Pain,Dyspnea,DOA
-HTN,heart failure,malignancy,MAKE_PHRASE_COMBINATIONS,DVT,CP,DIB,DOAC
-high BP,CHF,,Prior/previous_PE/pes/DVT/dvts/pulmonary embolism/deep vein thrombosis,deep vein thrombosis,C/P,SOB,Apixaban
->BP,CCF,lung ca,,pulmonary embolism,angina,short of breath,dabigatran
-high blood pressure,LVF,chemo,,dvts ,chest pains,shortness of breath,edoxaban
-,,chemotherapy,,,,breathless,rivaroxaban
-,,carcinoma,,pes,,breathlessness,Apixiban
-,,ovarian ca,,,,,
-,,breast ca,,secondary_matcher,,,
-,,history of ca,,,,,
-,,colon ca,,,,,
-,,pancreas ca,,,,,
-,,liver ca,,,,,
-,,bowel ca,,,,,
-,,bladder ca,,,,,
-,,kidney ca,,,,,
+﻿Hypertension,Chronic heart failure,Cancer,Prior pe,PE,Chest Pain,Dyspnea,DOA,recent surgery
+HTN,heart failure,malignancy,Prior/previous_PE/pes/DVT/dvts/pulmonary embolism/deep vein thrombosis,DVT,CP,DIB,DOAC,recent immobilisation
+high BP,CHF,lung ca,,deep vein thrombosis,C/P,SOB,Apixaban,recent surg
+>BP,CCF,chemo,,pulmonary embolism,angina,short of breath,dabigatran,
+high blood pressure,LVF,chemotherapy,MAKE_PHRASE_COMBINATIONS,dvts ,chest pains,shortness of breath,edoxaban,
+,,carcinoma,,pes,,breathless,rivaroxaban,
+,,ovarian ca,,,,breathlessness,Apixiban,
+,,breast ca,,,,,,
+,,history of ca,,secondary_matcher,,,,
+,,colon ca,,,,,,
+,,pancreas ca,,,,,,
+,,liver ca,,,,,,
+,,bowel ca,,,,,,
+,,bladder ca,,,,,,
+,,kidney ca,,,,,,
